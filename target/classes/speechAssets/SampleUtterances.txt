@@ -1,0 +1,11 @@
+GetSpelling spell {Name}
+GetSpelling spell the name {Name}
+GetSpelling spell the first name {Name}
+
+GetSpelling spell out {Name}
+GetSpelling spell out the name {Name}
+GetSpelling spell out the first name {Name}
+
+GetSpelling how to I spell {Name}
+GetSpelling how to I spell the name {Name}
+GetSpelling how to I spell the firstname {Name}

@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetSpelling",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    }
+  ]
+}
