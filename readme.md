@@ -1,6 +1,6 @@
 # Alexa Skill Example in Java
 
-This project demonstrate some of the functionality which can be achieved with an Alexa skill service. This services enables a user to:
+This project demonstrates how build a simple an Alexa skill service in Java. This application receives a name from the skill interface, and returns the name spelled out using Speech Synthesis Markup Language (SSML).
 
 
 ## Overview
