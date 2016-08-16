@@ -5,7 +5,7 @@ This project demonstrates how build a simple an Alexa skill service in Java. Thi
 
 ## Overview
 
-This app was also built on OSX using the Eclipse IDE. It should run fairly easily on Windows and Linux. This project is essentially a Spark project using Maven.
+This app was also built on OSX using the Eclipse IDE. It should run fairly easily on Windows and Linux. This project is essentially a [Spark](http://sparkjava.com) application using Maven.
 
 ## Setup
 
